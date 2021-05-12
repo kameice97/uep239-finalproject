@@ -1,0 +1,11 @@
+name:finalproject239
+channels:
+  - conda-forge
+dependencies:
+  -python==3.*
+  -jupyterlab=3.*
+  -geopandas
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
