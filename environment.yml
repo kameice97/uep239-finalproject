@@ -9,4 +9,9 @@ dependencies:
   - pandas
   - matplotlib
   - seaborn
-  -contextily
+  -folium
+  -rasterio 
+  -affine
+  -math
+  -scipy
+  -rasterstats
