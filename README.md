@@ -3,7 +3,7 @@
 
 **Summary:**  For my vulnerability analysis, I will be determining which zipcodes in Massachusetts would be most vulnerable in the event of a natural disaster. This is based on 5 indicators: 
 1. Percentage of elderly residents (65 years and older) in each zipcode
-2. Percentage of residents in each zipcode who earn less than $30,000 USD annually
+2. Percentage of residents in each zipcode who earn less than $35,000 USD annually
 3.Percentage of people in each zipcode who were not born in the United States
 4. Percentage of households in each zipcode that speak limited English
 5. Euclidean distances of hospitals in each zipcode
