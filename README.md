@@ -8,7 +8,7 @@
 4. Percentage of households in each zipcode that speak limited English
 5. Euclidean distances of hospitals in each zipcode
 
-This notebook can be run by cloning the repository from GitHub and running each cell in the notebook.
+**Instructions:** This notebook can be run by cloning the repository from GitHub and running each cell in the notebook.
 
 **Data Files**
 ACSST5Y2019.S0101 - Contains demographic data for people living in Massachusetts, such as age and sex, for each zipcode within the state.
